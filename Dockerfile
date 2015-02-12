@@ -1,5 +1,5 @@
 
-FROM c3h3/pyenv-opencv:u1404-py278-ipynb
+FROM c3h3/pyenv-opencv:agilearning
 
 MAINTAINER Chia-Chi Chang <c3h3.tw@gmail.com>
 
